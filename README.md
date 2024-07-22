@@ -1,2 +1,2 @@
 ## Human Resources Project
-This is a simple project where you can add employees.
+This is a very simple project dealing with an employee management system with classes, fields, methods, and constructors.
